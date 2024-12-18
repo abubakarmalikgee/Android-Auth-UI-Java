@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71517080986",
+    "project_id": "login-signup-dashboard-fbase",
+    "storage_bucket": "login-signup-dashboard-fbase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71517080986:android:b950e673ee97c17f9c3e23",
+        "android_client_info": {
+          "package_name": "com.example.loginsignupanddashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQU9q18UeepbtYFD0dY5jjLQM4Yv1ToDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

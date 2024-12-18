@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Login Signup and Dashboard</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="sign_up_to_get_started">Sign up to get started</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_signup">Email</string>
+    <string name="password_signup">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="welcome_john_doe">Welcome, John Doe!</string>
+    <string name="johndoe_example_com">johndoe@example.com</string>
+    <string name="view_profile">View Profile</string>
+    <string name="logout">Logout</string>
+    <string name="dashboard_features">Dashboard Features</string>
+    <string name="feature_1">Feature 1</string>
+    <string name="feature_2">Feature 2</string>
+</resources>
